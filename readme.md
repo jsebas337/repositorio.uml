@@ -9,6 +9,7 @@ vale 1 o 11segun convenga, solo puede valer 11 si este valor no excede el valor 
 # Diagrama:
 
 - diagrama de casos de uso:
-
+![Casos de usos](out/diagramas/casos_de_uso/casos_de_uso.png)
 - Diagrama de clases:
+![Clases](out/diagramas/clases/clases.png)
 - Diagrama de secuencia:
